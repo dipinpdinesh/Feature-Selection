@@ -7,4 +7,10 @@ Feature selection in data analytics is used to identify the relevent features th
 
 * Improved Accuracy : As we are removing irrelevant features.
 * Reduced Training Time: Fewer Data means less time to run the algorithm.
-* Reduced Overfitting: Less  redunant data is already removed, so less decisions based on noise.
+* Reduced Overfitting: Less redundant data is already removed, so less decisions based on noise.
+
+3 Main Feature selection Techniques
+
+* Univariate Selection 
+* Feature Importance
+* Corelation Matrix with Heatmap
