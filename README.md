@@ -11,6 +11,6 @@ Feature selection in data analytics is used to identify the relevent features th
 
 3 Main Feature selection Techniques
 
-* Univariate Selection: Using a Statistical method called 'SelectKbest' and 'Chi2' function  
-* Feature Importance: Using inbuilt class called 'Feature Importance' in Tree based classifier(ExtraTreesClassifier)
-* Correlation Matrix with Heatmap
+* Univariate Selection: Using a Statistical method called 'SelectKbest' and 'Chi2' function.
+* Feature Importance: Using inbuilt class called 'Feature Importance' in Tree based classifier(ExtraTreesClassifier).
+* Correlation Matrix with Heatmap.
